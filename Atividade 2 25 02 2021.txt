@@ -1,0 +1,73 @@
+0:00
+
+Modelos de processos de software
+
+atividades de software
+
+Modelos Ágeis 
+
+3:30
+
+
+
+3:31
+
+Software é um programa e sua documentação
+
+atributos: funcionalidade, desempenho, confiabilidade, 
+
+05:56
+
+05:57
+
+Especificação, Desenvolvimento, Validação e Evolução.
+
+06:19
+
+06:20
+
+Engenharia de Software diferente Ciência da Computação
+
+Rapidez e confiabilidade
+
+Maior tempo de Desenvolvimento e menor tempo de teste
+
+08:46
+
+Processo de Software é um conjunto de atividades que levam para produzir e melhorar esse software.
+
+10:35
+
+Representação simplificada (abstrações); 
+
+Modelo Cascata 
+
+Modelo Instrumental - validação
+
+Modelo Orientado a reuso - partes prontas
+
+15:59
+
+16:00
+
+Atividades básicas: Especificação, Desenvolvimento, Validação e Evolução.
+
+17:04
+
+17:05
+
+Estudo de rEquisitos: viabilidade, requisitos, lista de especificação, validação de requisitos.
+
+18:15
+
+18:16
+
+Projeto - cria-se após o estudo de requisitos.
+
+19:44
+
+19:45
+
+Estágios do teste: teste de componetes, teste de sistema e teste de aceitação
+
+Evolução do sistema
